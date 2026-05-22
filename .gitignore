@@ -1,0 +1,17 @@
+env/
+.env/
+
+venv/
+.venv/
+data/
+test/
+train/
+ENV/
+env.bak/
+venv.bak/
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+*.db
+.envd
